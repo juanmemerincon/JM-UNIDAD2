@@ -11,13 +11,13 @@
 		<label>Name:</label><br>
 		<input type = "text" name= "name" value = "${item.name}" /><br>
 		
-		<label>type:</label><br>
+		<label>Type:</label><br>
 		<input type = "text" name= "type" value = "${item.type}" /><br>
 		
-		<label>maximum:</label><br>
+		<label>Maximum:</label><br>
 		<input type = "text" name= "maximum" value = "${item.maximum}" /><br>
 		
-		<label>minimum:</label><br>
+		<label>Minimum:</label><br>
 		<input type = "text" name= "minimum" value = "${item.minimum}" /><br>
 		
 		<input type = "submit" name = "btn_save" id="btn_save" value = "Save"/>
